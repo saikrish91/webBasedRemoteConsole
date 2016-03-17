@@ -1,0 +1,22 @@
+[Desktop Entry]
+Categories=Application;Development;
+Comment[en_US]=Web Based Remote Console is a GUI that makes System Administration exciting and intuitive!
+Comment=Web Based Remote Console is a GUI that makes System Administration exciting and intuitive!
+Encoding=UTF-8
+Exec=google-chrome localhost
+GenericName[en_US]=
+GenericName=
+Icon=/usr/share/pixmaps/wbrc.png
+MimeType=
+Name[en_US]=WBRC
+Name=WBRC
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=3.7.1
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
